@@ -1,0 +1,38 @@
+*
+    {    margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+
+h1{
+    background-color: rgb(185, 220, 232);
+   
+}    
+
+nav{
+    background-color: rgb(253, 166, 166);
+    color: black;
+    padding: 30px;
+    
+   
+ }   
+ nav a {
+    color: black;
+    text-decoration: none;
+    margin-left: 30px;
+}
+#section2,
+#section4,#section6,#section8 {
+    background-color: rgb(240, 199, 205);
+    color: black;
+    margin: 10px;
+    padding: 20px;
+}
+#section1,
+#section3,
+#section5,#section7 {
+    background-color: rgb(185, 220, 232);
+    color: black;
+    margin: 10px;
+    padding: 20px;
+}
